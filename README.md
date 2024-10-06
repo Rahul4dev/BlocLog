@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+### Project Setup
+
+To get started with this project,
+
+1. Clone the repository.
+2. navigate to aaharsutra-main `cd aaharsutra-main`.
+3. First, run the development server:
 
 ```bash
 npm run dev
